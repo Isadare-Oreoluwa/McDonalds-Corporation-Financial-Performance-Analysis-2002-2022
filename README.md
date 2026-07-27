@@ -65,7 +65,7 @@ The report includes:
 
 📄 **View the Report**
 
-https://github.com/Isadare-Oreoluwa/McDonald-s-Corporation-Financial-Performance-Analysis-2002-2022-/blob/main/McDonald%20Report.pdf
+https://github.com/Isadare-Oreoluwa/McDonalds-Corporation-Financial-Performance-Analysis-2002-2022/blob/main/McDonald%20Report.pdf
 
 ---
 
@@ -75,7 +75,7 @@ The completed Excel dashboard and raw dataset are available below.
 
 📥 **Download Dashboard & Data**
 
-https://github.com/Isadare-Oreoluwa/McDonald-s-Corporation-Financial-Performance-Analysis-2002-2022-/blob/main/McDonalds%20Analysis.rar
+https://github.com/Isadare-Oreoluwa/McDonalds-Corporation-Financial-Performance-Analysis-2002-2022/blob/main/McDonalds%20Analysis.rar
 
 ---
 
@@ -98,7 +98,7 @@ If you would like to download everything at once:
 If Git is installed on your computer, clone the repository using:
 
 ```bash
-git clone https://github.com/Isadare-Oreoluwa/McDonald-s-Corporation-Financial-Performance-Analysis-2002-2022-.git
+git clone https://github.com/Isadare-Oreoluwa/McDonalds-Corporation-Financial-Performance-Analysis-2002-2022.git
 ```
 
 ---
