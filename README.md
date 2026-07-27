@@ -52,7 +52,7 @@ The report includes:
 - Insights from the DuPont breakdown and dividend analysis.
 - Clear, simple visuals to aid interpretation.
 
-[View Report](https://github.com/Isadare-Oreoluwa/Excel-projects/blob/Excel-main/Projects/McDonalds%20Analysis/McDonald%20Report.pdf)
+[View Report](https://github.com/Isadare-Oreoluwa/McDonald-s-Corporation-Financial-Performance-Analysis-2002-2022-/blob/main/McDonald%20Report.pdf)
 
 ---
 
@@ -60,6 +60,6 @@ The report includes:
 
 The Excel dashboard and raw dataset are bundled in a ZIP file:
 
-[Download Dashboard & Data](https://github.com/Isadare-Oreoluwa/Excel-projects/blob/Excel-main/Projects/McDonalds%20Analysis/McDonalds%20Analysis.rar)
+[Download Dashboard & Data](https://github.com/Isadare-Oreoluwa/McDonald-s-Corporation-Financial-Performance-Analysis-2002-2022-/blob/main/McDonalds%20Analysis.rar)
 
 ---
